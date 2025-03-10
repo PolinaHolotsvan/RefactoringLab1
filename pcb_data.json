@@ -1,0 +1,18 @@
+{
+    "altresp": "",
+    "dbdname": "RT0REF",
+    "express": "",
+    "keylen": "250",
+    "list": "",
+    "lterm": "",
+    "modify": "",
+    "name": "",
+    "pcbname": "",
+    "pos": "",
+    "procopt": "GP",
+    "procseq": "(RT0REFX2,RT0AAAA5)",
+    "sametrm": "",
+    "sb": "",
+    "type": "DB",
+    "view": ""
+}
